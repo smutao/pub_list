@@ -15,6 +15,10 @@ Still under construction...
    year
 
 
+test math 
+
+:math:`\a_b^c`. 
+
 .. Search
 .. ==================
 
