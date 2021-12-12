@@ -17,7 +17,7 @@ Still under construction...
 
 test math 
 
-:math:`\a_b^c`. 
+:math:`a_b^c`. 
 
 .. Search
 .. ==================
